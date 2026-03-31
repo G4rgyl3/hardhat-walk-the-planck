@@ -1,0 +1,11 @@
+{
+  "name": "walk-the-planck",
+  "dependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.7",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "@ohlabs/configuration": "^1.2.0",
+    "@ohlabs/sdk": "^5.0.3",
+    "@openzeppelin/contracts": "^5.6.1",
+    "@pythnetwork/entropy-sdk-solidity": "^2.2.1"
+  }
+}

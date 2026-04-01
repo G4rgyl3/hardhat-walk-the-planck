@@ -59,7 +59,6 @@ Default allowed entry fees in the current contract:
 - [`contracts/mocks/TestMockEntropy.sol`](/c:/Users/Gargyle/Documents/Development/hardhat/walk%20the%20planck/contracts/mocks/TestMockEntropy.sol) - mock entropy contract for local testing
 - [`test/walk-the-planck.js`](/c:/Users/Gargyle/Documents/Development/hardhat/walk%20the%20planck/test/walk-the-planck.js) - current test coverage around queue buckets and active match views
 - [`deploy/deploy-game.js`](/c:/Users/Gargyle/Documents/Development/hardhat/walk%20the%20planck/deploy/deploy-game.js) - deployment script
-- [`hardhat.config.js`](/c:/Users/Gargyle/Documents/Development/hardhat/walk%20the%20planck/hardhat.config.js) - network and compiler configuration
 
 ## Getting started
 
@@ -107,4 +106,4 @@ The deploy script currently targets a configured entropy router and treasury/col
 
 ## License
 
-MIT
+Apache 2.0
